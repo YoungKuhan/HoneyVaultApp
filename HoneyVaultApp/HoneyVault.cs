@@ -6,7 +6,7 @@ namespace HoneyVaultApp
 {
     static class HoneyVault
     {
-        private static string StatusReport
+        public static string StatusReport
         {
             get
             {
